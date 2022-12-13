@@ -9,3 +9,5 @@
     }
 }
 
+string[] arr = new string[] {"hello", "2", "world", ":)"};
+Array(arr);
